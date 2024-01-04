@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="title_all">All</string>
+    <string name="title_today">Today</string>
+    <string name="title_projects">Projects</string>
+    <string name="text_task">Task</string>
+    <string name="text_description">Description</string>
+    <string name="text_date">Date</string>
+    <string name="add_new_task">Add New Task</string>
+    <string name="open_setting">Open Setting</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="input_your_description">Input your description</string>
+    <string name="input_your_task">Input your task</string>
+    <string name="remove_this_task">Click continue, if you want to remove this element</string>
+    <string name="text_state">State</string>
+    <string name="input_your_note">Input your note</string>
+    <string name="back">Back</string>
+    <string name="title_notes">Notes</string>
+</resources>
